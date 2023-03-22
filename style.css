@@ -40,19 +40,18 @@
         color: brown;
 
     }
-a{
-text-decoration: none;
-}
+    a{
+    text-decoration: none;
+    }
 
-.real{
-text-align: center;
-background-color: brown; padding:20px;
-color:white;
-margin: 10px;
+    .real{
+    text-align: center;
+    background-color: brown; padding:20px;
+    color:white;
+    margin: 10px;
+    }
 
-}
-
-.info fieldset
+    .info fieldset
              {
             background-color: brown;
             text-align: left;
