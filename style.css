@@ -1,4 +1,4 @@
-*{
+    *{
     box-sizing: border-box;
 }
     
@@ -20,14 +20,7 @@
     {
         text-align: left;
     }
-    .info fieldset
-    {
-            text-align: left;
-            color: white;
-            background-color: brown;
-            padding: 10px;
-            margin: auto;
-    }
+    
 
 
 
